@@ -82,6 +82,7 @@ communicates instructions to the traffic infrastructure in real time.
 >3. The model learns the relationship between these features and the optimal signal timings.
 ---
 **5. Real-time Prediction**
+>
 ---
 **6. Adaptive Signal Control**
 >1. The predicted optimal signal timings are implemented in real-time to control the traffic signals
