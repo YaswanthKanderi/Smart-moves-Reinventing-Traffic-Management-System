@@ -76,7 +76,7 @@ communicates instructions to the traffic infrastructure in real time.
 >3. Presence of pedestrians
 >4. Historical traffic patterns
 ---
-***4. Machine Learning Model** 
+**4. Machine Learning Model** 
 >1. Train a machine learning model using historical data.
 >2. Features could include time of day, day of the week, special events, and other relevant factors.
 >3. The model learns the relationship between these features and the optimal signal timings.
