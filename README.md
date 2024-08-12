@@ -5,7 +5,10 @@
 
 ## **Main Modules** :
 
-**1. SYSTEM MODULES** :
+**1. SYSTEM MODULES** 
+**2. USER MODULES** 
+---
+**SYSTEM MODULES** :
 
 **1. Data Collection** :
 >1. Responsible for collecting raw data from various sources such as sensors, cameras, and connected vehicles.
@@ -36,7 +39,7 @@ communicates instructions to the traffic infrastructure in real time.
 >2. It involves the use of computer vision techniques to process data from cameras or sensors and identify relevant objects
 ---
 
-**1. USER MODULES** :
+**USER MODULES** :
 
 **1. User’s Dashboard** :
 >1. The User's Dashboard empowers with the Traffic Simulation where users can access relevant information efficiently that manage traffic-related activities.
