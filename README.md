@@ -25,7 +25,7 @@
 >1. Implements an adaptive traffic signal control system that dynamically adjusts signal timings based on the analyzed traffic patterns and real-time conditions.
 ---
 **6. Centralized Control and Decision-Making** :
-> Establishes a centralized system that processes data from various sources, makes informed decisions, and
+>   Establishes a centralized system that processes data from various sources, makes informed decisions, and
 communicates instructions to the traffic infrastructure in real time.
 ---
 Traffic Monitoring and Analytics :
